@@ -1,2 +1,0 @@
-# gba
-GameBoy emulator
